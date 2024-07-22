@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h2>收集互联网有关链接</h2>
-    <ol>
-        <li><a href="https://www.chncomic.com">中国国际动漫网</a></li>
+## 收集互联网有关链接
+   + <a href="https://www.chncomic.com">中国国际动漫网</a></li>
     
         <li><a href="https://www.mkzhan.com/">漫客栈-漫画</a></li>
         <li><a href="https://www.comicyu.com/">漫域-中国动漫综合门户</a></li>
@@ -50,6 +40,3 @@
 
         <p>二次元游戏</p>
         <li><a href="https://moeyoyo.zhaimoe.com/">萌游网</a></li>
-    </ol>
-</body>
-</html>
